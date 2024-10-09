@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/movie-gold-v1-frontend/static/css/main.bd9f1723.css",
+    "main.js": "/movie-gold-v1-frontend/static/js/main.dc96a7ba.js",
+    "reactPlayerYouTube.js": "/movie-gold-v1-frontend/static/js/reactPlayerYouTube.9c2d44d3.chunk.js",
+    "reactPlayerSoundCloud.js": "/movie-gold-v1-frontend/static/js/reactPlayerSoundCloud.e8badd85.chunk.js",
+    "reactPlayerVimeo.js": "/movie-gold-v1-frontend/static/js/reactPlayerVimeo.55469219.chunk.js",
+    "reactPlayerMux.js": "/movie-gold-v1-frontend/static/js/reactPlayerMux.50c7b029.chunk.js",
+    "reactPlayerFacebook.js": "/movie-gold-v1-frontend/static/js/reactPlayerFacebook.ccd49524.chunk.js",
+    "reactPlayerStreamable.js": "/movie-gold-v1-frontend/static/js/reactPlayerStreamable.e8cc2a32.chunk.js",
+    "reactPlayerWistia.js": "/movie-gold-v1-frontend/static/js/reactPlayerWistia.041ce82a.chunk.js",
+    "reactPlayerTwitch.js": "/movie-gold-v1-frontend/static/js/reactPlayerTwitch.368efbc5.chunk.js",
+    "reactPlayerDailyMotion.js": "/movie-gold-v1-frontend/static/js/reactPlayerDailyMotion.9bd56792.chunk.js",
+    "reactPlayerMixcloud.js": "/movie-gold-v1-frontend/static/js/reactPlayerMixcloud.855934e1.chunk.js",
+    "reactPlayerVidyard.js": "/movie-gold-v1-frontend/static/js/reactPlayerVidyard.d5691dc7.chunk.js",
+    "reactPlayerKaltura.js": "/movie-gold-v1-frontend/static/js/reactPlayerKaltura.789ae819.chunk.js",
+    "reactPlayerFilePlayer.js": "/movie-gold-v1-frontend/static/js/reactPlayerFilePlayer.69c24d4d.chunk.js",
+    "reactPlayerPreview.js": "/movie-gold-v1-frontend/static/js/reactPlayerPreview.68e87a89.chunk.js",
+    "index.html": "/movie-gold-v1-frontend/index.html",
+    "main.bd9f1723.css.map": "/movie-gold-v1-frontend/static/css/main.bd9f1723.css.map",
+    "main.dc96a7ba.js.map": "/movie-gold-v1-frontend/static/js/main.dc96a7ba.js.map",
+    "reactPlayerYouTube.9c2d44d3.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerYouTube.9c2d44d3.chunk.js.map",
+    "reactPlayerSoundCloud.e8badd85.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerSoundCloud.e8badd85.chunk.js.map",
+    "reactPlayerVimeo.55469219.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerVimeo.55469219.chunk.js.map",
+    "reactPlayerMux.50c7b029.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerMux.50c7b029.chunk.js.map",
+    "reactPlayerFacebook.ccd49524.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerFacebook.ccd49524.chunk.js.map",
+    "reactPlayerStreamable.e8cc2a32.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerStreamable.e8cc2a32.chunk.js.map",
+    "reactPlayerWistia.041ce82a.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerWistia.041ce82a.chunk.js.map",
+    "reactPlayerTwitch.368efbc5.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerTwitch.368efbc5.chunk.js.map",
+    "reactPlayerDailyMotion.9bd56792.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerDailyMotion.9bd56792.chunk.js.map",
+    "reactPlayerMixcloud.855934e1.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerMixcloud.855934e1.chunk.js.map",
+    "reactPlayerVidyard.d5691dc7.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerVidyard.d5691dc7.chunk.js.map",
+    "reactPlayerKaltura.789ae819.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerKaltura.789ae819.chunk.js.map",
+    "reactPlayerFilePlayer.69c24d4d.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerFilePlayer.69c24d4d.chunk.js.map",
+    "reactPlayerPreview.68e87a89.chunk.js.map": "/movie-gold-v1-frontend/static/js/reactPlayerPreview.68e87a89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9f1723.css",
+    "static/js/main.dc96a7ba.js"
+  ]
+}
